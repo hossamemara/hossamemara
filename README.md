@@ -19,7 +19,7 @@
   <li>Algorithms</li>
   <li>SQL Database</li>
   <li>Mongo Database</li>
-  <li>c++</li>
+  <li>Python</li>
   <li>C#</li>
   <li>.Net Framework</li>
   <li>MVC Core</li>
