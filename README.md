@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me <a href="https://www.linkedin.com/in/hossam-omara-38790a210/">Linkedin</a>
 
 <h1>My Stack</h1> 
 <ul>
