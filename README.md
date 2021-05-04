@@ -15,6 +15,7 @@
   <li>OOP</li>
   <li>ES6</li>
   <li>Data Structures</li>
+  <li>Data Analysis</li>
   <li>SQL Database</li>
   <li>Mongo Database</li>
   <li>Python</li>
