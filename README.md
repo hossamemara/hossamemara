@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- <h1>My Stack ==></h1> 
+
+- <h1>My Stack</h1> 
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
