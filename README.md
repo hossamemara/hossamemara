@@ -5,21 +5,25 @@
 - 📫 How to reach me ...
 - <h1>My Stack ==></h1> 
 - 
-HTML5
-CSS3
-BOOTSTRAP_4.6
-JAVASCRIPT
-SASS
-JSON
-AJAX
-OOP
-ES6
-Data Structures
-Algorithms
-SQL Database
-c++
-C#
-.Net Framework
-MVC Core
-ASPX
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>BOOTSTRAP_4.6</li>
+  <li>JAVASCRIPT</li>
+  <li>SASS</li>
+  <li>JSON</li>
+  <li>AJAX</li>
+  <li>OOP</li>
+  <li>ES6</li>
+  <li>Data Structures</li>
+  <li>Algorithms</li>
+  <li>SQL Database</li>
+  <li>Mongo Database</li>
+  <li>c++</li>
+  <li>C#</li>
+  <li>.Net Framework</li>
+  <li>MVC Core</li>
+  <li>ASPX</li>
+  <li>MVC Core</li>
+</ul>
 👇CONT
