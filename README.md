@@ -3,8 +3,23 @@
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-hossamemara/hossamemara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <h1>My Stack ==></h1> 
+- 
+HTML5
+CSS3
+BOOTSTRAP_4.6
+JAVASCRIPT
+SASS
+JSON
+AJAX
+OOP
+ES6
+Data Structures
+Algorithms
+SQL Database
+c++
+C#
+.Net Framework
+MVC Core
+ASPX
+👇CONT
