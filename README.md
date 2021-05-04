@@ -10,20 +10,15 @@
   <li>CSS3</li>
   <li>BOOTSTRAP_4.6</li>
   <li>JAVASCRIPT</li>
-  <li>SASS</li>
   <li>JSON</li>
   <li>AJAX</li>
   <li>OOP</li>
   <li>ES6</li>
   <li>Data Structures</li>
-  <li>Algorithms</li>
   <li>SQL Database</li>
   <li>Mongo Database</li>
   <li>Python</li>
   <li>C#</li>
   <li>.Net Framework</li>
-  <li>MVC Core</li>
-  <li>ASPX</li>
-  <li>MVC Core</li>
 </ul>
 👇CONT
