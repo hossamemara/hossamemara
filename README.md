@@ -10,7 +10,6 @@
   <li>CSS3</li>
   <li>BOOTSTRAP_4.6</li>
   <li>JAVASCRIPT</li>
-  <li>JSON</li>
   <li>AJAX</li>
   <li>OOP</li>
   <li>ES6</li>
