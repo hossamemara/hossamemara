@@ -19,10 +19,7 @@
   <li>Data Analysis</li>
   <li>Python</li>
   <li>Mongo Database</li>
-  <li>SQL Database</li>
-  <li>C#</li>
-  
-  
+
   
 </ul>
 👇CONT
