@@ -13,8 +13,10 @@
   <li>AJAX</li>
   <li>OOP</li>
   <li>ES6</li>
+  <li>SASS</li>
   <li>Typescript</li>
   <li>Angular12</li>
+  <li>SQL</li>
   <li>Data Structures</li>
   <li>Data Analysis</li>
   <li>Python</li>
