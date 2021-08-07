@@ -1,6 +1,6 @@
-- 👋 Hi, I’m hossam Omara 26 years old
+- 👋 Hi, I’m hossam Omara 26 years old Frontend Developer | Angular
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Backend Development , 
 - 💞️ I’m looking to collaborate on stable company where I can use my talent to add value to the company
 - 📫 How to reach me <a href="https://www.linkedin.com/in/hossam-omara-38790a210/" target="_blank">Linkedin</a>
 
@@ -16,11 +16,7 @@
   <li>SASS</li>
   <li>Typescript</li>
   <li>Angular12</li>
-  <li>SQL</li>
-  <li>Data Structures</li>
-  <li>Data Analysis</li>
-  <li>Python</li>
-  <li>Mongo Database</li>
+  <li>SQL Database</li>
 
   
 </ul>
